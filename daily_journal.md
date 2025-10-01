@@ -1,3 +1,5 @@
 ## September 18th 2025
 Today I started work on my senior engineering project. I am building a coffee table that will have an automatic water pouring system so when you put a glass on the cupholder it will pour water into it. Today I designed a simple coffee table on fusion 360. I used tools such as loft, rectangular pattern, and extrtude. I have learned to use these tools in previous classes at latin. 
 ![alt text](media/image-1.png)
+ ## September 30th 2025
+ Today we were working on the Owl led light pannel. We have been working on this for a few days now so I was almost done with it before class started. I put the last piece on and then plugged it in and it did not turn on. I did some trobuleshooting but couldnt find the problem so it must have been a fried mount or somethinng lie that. So I had to get a new Owl to restart because it is required which is a setback but will get it done. 
