@@ -10,4 +10,4 @@ Today I went into the wood shed out back to check out what we had to use. There 
 ## October 7th 2025
 Today I Labled some pieces of wood in the shed and also worked on some GIT stuff today. 
 ## October 9th 2025
-Today I did some design specifications and did a deeper dive into the tools and resources I need to build the [**Hydration Station**]. I started to gather a list of components and wood that I need. 
+Today I did some design specifications and did a deeper dive into the tools and resources I need to build the **Hydration Station**. I started to gather a list of components and wood that I need. 
